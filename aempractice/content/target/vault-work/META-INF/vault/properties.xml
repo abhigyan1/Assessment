@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>AEMPractice Package</comment>
+<entry key="createdBy">Abhigyan</entry>
+<entry key="name">aempractice-content</entry>
+<entry key="created">2016-12-27T09:56:45.132+0530</entry>
+<entry key="groupId">my-group-id</entry>
+<entry key="version">1.0-SNAPSHOT</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">AEMPractice</entry>
+<entry key="description">Maven Multimodule project for AEMPractice.</entry>
+<entry key="artifactId">aempractice-content</entry>
+<entry key="path">/etc/packages/AEMPractice/aempractice-content.zip</entry>
+</properties>
